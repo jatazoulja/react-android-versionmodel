@@ -1,0 +1,23 @@
+
+> create-react-library@1.1.0 prebuild /Users/peteremanabastillas/Desktop/Projects/github/react-android-versionmodel
+> node scripts/pre-build.js
+
+csv downloaded
+JSON file is ready!
+
+> create-react-library@1.1.0 build /Users/peteremanabastillas/Desktop/Projects/github/react-android-versionmodel
+> npm run prebuild && node scripts/build.js
+
+
+> create-react-library@1.1.0 prebuild /Users/peteremanabastillas/Desktop/Projects/github/react-android-versionmodel
+> node scripts/pre-build.js
+
+csv downloaded
+JSON file is ready!
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  228.96 KB  build/index.js
+
